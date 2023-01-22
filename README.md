@@ -1,2 +1,3 @@
 # ATTENDANCE-USING-QR-CODE-PYTHON-
-This is a simple attendance taking project using QR codes, It is a simple Python project that everyone can try
+# Mini Project Sem 06 
+### QR code attendance systems involve using a smartphone or other device to scan a QR code upon arrival at a location, such as a school or workplace. This allows for quick and efficient tracking of attendance without the need for manual sign-in sheets or other methods. The scanned QR code can be linked to a database that records the time and date of the scan, as well as the individual who scanned the code, making it easy to track attendance. Some systems also have the capability to generate unique QR codes for each individual, providing an added layer of security.
